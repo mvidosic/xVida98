@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xVida98
+- 👋 Hi, I’m @mvidosic
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Javascript and C#
 
